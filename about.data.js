@@ -1,0 +1,1 @@
+var aboutData = "PHP, JavaScript, jQuery, vue.js <br/> K.D.H (flashmotion@naver.com)";
